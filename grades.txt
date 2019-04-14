@@ -1,0 +1,5 @@
+Mouse,Mickey,90
+Doe,Jane,50
+Mouse,Minnie,95
+Duck,Donald,80
+Duck,Daffy,70
